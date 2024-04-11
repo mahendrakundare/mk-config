@@ -4,4 +4,4 @@ spring:
 
 edb:
   bankName: "edb-bank"
-  bankLocation: "UAE"
+  bankLocation: "Dubai"
