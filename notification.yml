@@ -2,6 +2,6 @@ spring:
   application:
     name: "notification"
 
-edb:
-  bankName: "edb-bank"
-  bankLocation: "Dubai"
+bank:
+  bankName: "mk-bank"
+  bankLocation: "India"
