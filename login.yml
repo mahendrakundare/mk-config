@@ -3,5 +3,5 @@ spring:
     name: "login"
 
 edb:
-  bankName: "edb-bank-dubai"
-  bankLocation: "Dubai"
+  bankName: "mk-bank"
+  bankLocation: "India"
