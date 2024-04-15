@@ -1,1 +1,7 @@
+spring:
+  application:
+    name: "notification"
 
+bank:
+  bankName: "prod state bank of india"
+  bankLocation: "prod germany"
