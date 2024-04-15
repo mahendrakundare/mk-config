@@ -1,1 +1,7 @@
+spring:
+  application:
+    name: "login"
 
+bank:
+  bankName: "prod SBI"
+  bankLocation: "prod Japan"
