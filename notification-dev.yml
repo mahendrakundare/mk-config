@@ -4,4 +4,4 @@ spring:
 
 bank:
   bankName: "HDFC"
-  bankLocation: "USA"
+  bankLocation: "china"
