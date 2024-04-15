@@ -4,4 +4,4 @@ spring:
 
 bank:
   bankName: "national-bank-of-india"
-  bankLocation: "India"
+  bankLocation: "germany"
