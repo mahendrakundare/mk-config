@@ -4,4 +4,4 @@ spring:
 
 bank:
   bankName: "prod mkbank"
-  bankLocation: "prod ind"
+  bankLocation: "prod chin"
