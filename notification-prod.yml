@@ -3,5 +3,5 @@ spring:
     name: "notification"
 
 bank:
-  bankName: "prod mkbank"
+  bankName: "prod sbi"
   bankLocation: "prod india"
