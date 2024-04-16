@@ -1,7 +1,0 @@
-spring:
-  application:
-    name: "login"
-
-bank:
-  bankName: "bank-of-india"
-  bankLocation: "UK"
