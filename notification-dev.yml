@@ -1,7 +1,3 @@
-spring:
-  application:
-    name: "notification"
-
 bank:
   bankName: "dev HDFC bank"
   bankLocation: "dev dev dev india"
