@@ -3,5 +3,5 @@ spring:
     name: "login"
 
 bank:
-  bankName: "prod SBI"
+  bankName: "prod SBI prod"
   bankLocation: "prod Japan"
