@@ -1,7 +1,0 @@
-spring:
-  application:
-    name: "notification"
-
-bank:
-  bankName: "prod sbi chin"
-  bankLocation: "production china fdab"
