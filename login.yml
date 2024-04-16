@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: "login"
+
+bank:
+  bankName: "dev HDFC dev"
+  bankLocation: "dev Japan"
