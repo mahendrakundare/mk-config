@@ -4,4 +4,4 @@ spring:
 
 bank:
   bankName: "prod sbi india"
-  bankLocation: "prod china"
+  bankLocation: "prod china india"
